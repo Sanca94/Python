@@ -1,0 +1,47 @@
+ride_name,park_location,park_area,ride_type_all,ride_type_thrill,ride_type_spinning,ride_type_slow,ride_type_small_drops,ride_type_big_drops,ride_type_dark,ride_type_scary,ride_type_water,fast_pass,classic,age_interest_all,age_interest_preschoolers,age_interest_kids,age_interest_tweens,age_interest_teens,age_interest_adults,height_req_inches,ride_duration_min,open_date,age_of_ride_days,age_of_ride_years,age_of_ride_total,tl_rank,ta_stars
+Alien Swirling Saucers,HS,Toy Story Land,spinning,No,Yes,No,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,32,1.5,2018-06-30,180,0.4928131416837782,,31,
+Astro Orbiter,MK,Tomorrowland,"spinning, slow",No,Yes,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,1.5,1995-02-25,8706,23.835728952772072,,43,3.5
+Avatar Flight of Passage,AK,Pandora,thrill,Yes,No,No,No,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,44,5,2017-05-27,579,1.5852156057494866,,9,5
+Big Thunder Mountain Railroad,MK,Frontierland,"thirll, small drops",Yes,No,No,Yes,No,No,No,No,Yes,Yes,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,3.5,1980-09-23,13974,38.25872689938399,,8,4.5
+Buzz Lightyear's Space Ranger Spin,MK,Tomorrowland,"spinning, slow",No,Yes,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,4,1998-10-07,7386,20.2217659137577,,32,4.5
+Dinosaur,AK,Dinoland USA,"thrill, small drops, dark, scary",Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,3.25,1998-04-22,7554,20.681724845995895,,24,4
+Dumbo the Flying Elephant,MK,Fantasyland,"spinning, slow",No,Yes,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,1.5,1971-10-01,17254,47.238877481177276,,29,4.5
+Expedition Everest,AK,Asia,"thrill, big drops, dark",Yes,No,No,No,Yes,Yes,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,44,2.75,2006-04-07,4647,12.722792607802875,,1,5
+Frozen Ever After,EC,World Showcase,"slow, small drops, dark",No,No,Yes,Yes,No,Yes,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,5,2016-06-21,919,2.516084873374401,,27,4
+Gran Fiesta Tour Starring The Three Caballeros,EC,World Showcase,slow,No,No,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,8,2007-04-02,4287,11.737166324435318,,47,4
+Haunted Mansion,MK,Liberty Square,"slow, dark",No,No,Yes,No,No,Yes,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,7.5,1971-10-01,17254,47.238877481177276,,2,4.5
+It's a Small World,MK,Fantasyland,slow,No,No,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,10.5,1971-10-01,17254,47.238877481177276,,16,4
+Journey Into Imagination with Figment,EC,Future World,"slow, dark",No,No,Yes,No,No,Yes,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,11,2002-06-01,6053,16.57221081451061,,53,3
+Jungle Cruise,MK,Adventureland,slow,No,No,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,9,1971-10-01,17254,47.238877481177276,,19,4
+Kali River Rapids,AK,Asia,"thrill, water, small drops, spinning",Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,38,3.5,1999-02-15,7255,19.863107460643395,,21,4.5
+Kilimanjaro Safaris,AK,Africa,slow,No,No,Yes,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,18.5,1998-04-22,7554,20.681724845995895,,11,4.5
+Living with the Land,EC,Future World,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,13.75,1982-10-01,13236,36.238193018480494,,42,4
+Mad Tea Party,MK,Fantasyland,spinning,No,Yes,No,No,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,1.5,1971-10-01,17254,47.238877481177276,,20,4
+Main Street Vehicles,MK,Main Street USA,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,3,1971-10-01,17254,47.238877481177276,,,4.5
+Mission Space,EC,Future World,"thrill, spinning, dark",Yes,Yes,No,No,No,Yes,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5.75,2003-10-01,5566,15.238877481177276,,33,3.5
+Na'vi River Journey,AK,Pandora,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,5,2017-05-27,579,1.5852156057494866,,25,4
+Peter Pan's Flight,MK,Fantasyland,"slow, small drops",No,No,Yes,Yes,No,No,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,2.75,1971-10-01,17254,47.238877481177276,,18,4
+Pirates of the Caribbean,MK,Adventureland,"slow, small drops, dark",No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,8.5,1973-12-17,16446,45.02669404517454,,12,4.5
+Primeval Whirl,AK,Dinoland USA,"thrill, small drops, spinning",Yes,Yes,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,48,1.25,2002-04-18,6097,16.692676249144423,,41,4
+Prince Charming Regal Carrousel,MK,Fantasyland,"slow, spinning",No,Yes,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,2,1971-10-01,17254,47.238877481177276,,51,4.5
+Rock 'n' Roller Coaster,HS,Sunset Boulevard,"thrill, big drops",Ues,No,No,No,Yes,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,48,1.25,1999-07-29,7091,19.41409993155373,,13,5
+Seven Dwarfs Mine Train,MK,Fantasyland,"thrill, small drops",Yes,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,38,2.5,2014-05-28,1674,4.583162217659138,,10,4.5
+Slinky Dog Dash,HS,Toy Story Land,"thrill, small drops",Yes,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,38,2,2018-06-30,180,0.4928131416837782,,14,
+Soarin' Around the World,EC,Future World,"slow, small drops",No,No,Yes,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5,2005-05-05,4984,13.645448323066393,,4,4.5
+Space Mountain,MK,Tomorrowland,"thrill, big drops, dark",Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,44,2.5,1975-01-15,16052,43.94798083504449,,5,4.5
+Spaceship Earth,EC,Future World,"slow, dark",No,No,Yes,No,No,Yes,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,15,1982-10-01,13236,36.238193018480494,,22,4.5
+Splash Mountain,MK,Frontierland,"thrill, water, big drops",Yes,No,No,No,Yes,No,No,Yes,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,11,1992-07-17,9659,26.444900752908968,,7,4.5
+Star Tours,HS,Echo Lake,small drops,No,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5,1989-12-15,10604,29.032169746748803,,15,4.5
+Test Track,EC,Future World,"thrill, small drops",Yes,No,No,Yes,No,No,No,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,4,1999-03-16,7226,19.783709787816566,,23,4.5
+The Barnstormer,MK,Fantasyland,small drops,No,No,No,Yes,No,No,No,No,Yes,No,"preschoolers, kids",Yes,Yes,No,No,No,35,1,1996-10-01,8122,22.236824093086927,,36,3.5
+The Magic Carpets of Aladdin,MK,Adventureland,"slow, spinning",No,Yes,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,1.5,2001-05-23,6427,17.596167008898014,,44,4
+The Many Adventures of Winnie the Pooh,MK,Fantasyland,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,3.25,1999-06-05,7145,19.561943874058862,,28,4
+The Twilight Zone Tower of Terror,HS,Sunset Boulevard,"thrill, big drops, dark, scary",Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,"kids, tweens, teens, adults",No,Yes,Yes,Yes,Yes,40,5,1994-07-22,8924,24.432580424366872,,3,5
+Tomorrowland Speedway,MK,Tomorrowland,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,32,4.75,1971-10-01,17254,47.238877481177276,,38,3.5
+Tomorrowland Transit Authority PeopleMover,MK,Tomorrowland,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,10,1975-07-01,15885,43.49075975359343,,30,4
+Toy Story Mania,HS,Toy Story Land,spinning,No,Yes,No,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,8,2008-05-31,3862,10.573579739904176,,6,4.5
+TriceraTop Spin,AK,Dinoland USA,"slow, spinning",No,Yes,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,1.5,2002-03-31,6115,16.7419575633128,,45,4
+Under the Sea,MK,Fantasyland,slow,No,No,Yes,No,No,No,No,No,Yes,No,all ages,Yes,Yes,Yes,Yes,Yes,0,6.25,2012-12-06,2212,6.056125941136208,,34,4.5
+Walt Disney World Railroad,MK,Main Street USA,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,20,1971-10-01,17254,47.238877481177276,,48,4
+Walt Disney's Carousel of Progress,MK,Tomorrowland,slow,No,No,Yes,No,No,No,No,No,No,Yes,all ages,Yes,Yes,Yes,Yes,Yes,0,20.75,1975-01-15,16052,43.94798083504449,,52,4
+Wildlife Express Train,AK,Africa,slow,No,No,Yes,No,No,No,No,No,No,No,all ages,Yes,Yes,Yes,Yes,Yes,0,12,1998-04-22,7554,20.681724845995895,,,3.5
